@@ -1,1 +1,14 @@
-
+<bug report>
+  <step="letter">short description</step>
+  <step="letter">project</step>
+  <step="letter">version</step>
+  <step="letter">bug severity</step>
+  <step="letter">priority</step>
+  <step="letter">status</step>
+  <step="letter">author</step>
+  <step="letter">perfumer</step>
+  <step="letter">steps</step>
+  <step="letter">actual result</step>
+  <step="letter">expected result</step>
+  <step="letter">additions</step>
+</bug report>
