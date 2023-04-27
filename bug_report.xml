@@ -1,4 +1,4 @@
-<bug report>
+<bug_report>
   <step="letter">short description</step>
   <step="letter">project</step>
   <step="letter">version</step>
@@ -11,4 +11,4 @@
   <step="letter">actual result</step>
   <step="letter">expected result</step>
   <step="letter">additions</step>
-</bug report>
+</bug_report>
